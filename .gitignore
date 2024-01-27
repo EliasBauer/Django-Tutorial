@@ -1,2 +1,3 @@
 .history
-.pyc
+*.pyc
+__pycache__/
